@@ -1,4 +1,4 @@
-# c++ 编码规范
+# E起飞 C++ 编码规范
 
 代码地址: [github仓库](https://github.com/lxbwolf/cplusplus_coding_standard)
 
