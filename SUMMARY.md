@@ -4,4 +4,5 @@
 * 头文件
    * [引用顺序](header_file/including_order.md)
 * [作用域](namespace.md)
+* 类
 
