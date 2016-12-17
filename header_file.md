@@ -24,8 +24,8 @@
 为保证唯一性, 头文件的命名应该基于所在项目源代码树的全路径. 例如, 项目 foo 中的头文件 foo/include/bar/baz.h 可按如下方式保护:
 
 ```c
-#ifndef FOO_BAR_BAZ_H_
-#define FOO_BAR_BAZ_H_
+#ifndef BAR_BAZ_H_
+#define BAR_BAZ_H_
 …
 #endif // FOO_BAR_BAZ_H_
 ```
