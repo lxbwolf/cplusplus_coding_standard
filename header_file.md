@@ -27,7 +27,7 @@
 #ifndef BAR_BAZ_H_
 #define BAR_BAZ_H_
 …
-#endif // FOO_BAR_BAZ_H_
+#endif // BAR_BAZ_H_
 ```
 
 ##### 前置声明
