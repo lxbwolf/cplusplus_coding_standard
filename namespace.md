@@ -1,8 +1,8 @@
 ##### 命名空间
 
-禁止使用 using 指示(using-directive).
-禁止使用内联命名空间(inline namespace).
-在.cpp中使用匿名名字空间, 以避免运行时的命名冲突, 不要在 .h 文件中使用匿名名字空间.
+* 禁止使用 using 指示(using-directive).
+* 禁止使用内联命名空间(inline namespace).
+* 在.cpp中使用匿名名字空间, 以避免运行时的命名冲突, 不要在 .h 文件中使用匿名名字空间.
 
 ##### 局部变量
 
