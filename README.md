@@ -3,7 +3,7 @@
 
 版本: V1.0
 
-文档地址: [github仓库](https://github.com/lxbwolf/cplusplus_coding_standard)
+文档地址: [github仓库](https://lxbwolf.gitbooks.io/cplusplus_coding_standard/content/)
 
 参考原文: [google c++ style](https://google.github.io/styleguide/cppguide.html)
 
