@@ -4,7 +4,7 @@
 
 ##### 类
 
-类型名称的每个单词首字母均大写, 不包含下划线: MyExcitingClass, MyExcitingEnum.
+类型名称命名遵守帕斯卡命名法: MyExcitingClass, MyExcitingEnum.
 
 ##### typedef 定义的名称
 
@@ -12,7 +12,7 @@
 
 ##### 变量
 
-普通变量使用camelCase, 无下划线
+普通变量使用驼峰命名法
 类数据成员 m_camelCase
 结构体变量 camelCase
 
@@ -26,7 +26,7 @@
 
 ##### 函数
 
-首字母小写, 每个单词首字母大写, 无下划线.
+使用用驼峰命名法.
 取值（Accessors）和设值（Mutators）函数要与存取的变量名匹配.
 
 ##### 命名空间
