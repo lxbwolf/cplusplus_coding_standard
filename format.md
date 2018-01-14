@@ -22,8 +22,7 @@
 * 函数名和左圆括号间没有空格;
 * 圆括号与参数间没有空格;
 * 函数声明和定义中的所有形参必须有命名且一致;
-* 所有形参应尽可能对齐;
-* 用FixedPointNumber代替浮点数
+* 所有形参应尽可能对齐.
 
 ##### 条件语句
 
@@ -39,9 +38,9 @@ case 缩进, 必须有break, 除enum外, 必须有default
 使用括号; 如果一个布尔表达式超过 标准行宽, 操作符放在行首.
 
 ```c
-if ((oneThing > otherThing)
-	&& (thirdThing == fourthThing)
-    && (yetAnother & lastOne))
+if ((one_thing > other_thing)
+	&& (third_thing == fourth_thing)
+    && (yet_another & last_one))
 {
   ...
 }
