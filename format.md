@@ -40,7 +40,7 @@ case 缩进, 必须有break, 除enum外, 必须有default
 ```c
 if ((one_thing > other_thing)
 	&& (third_thing == fourth_thing)
-    && (yet_another & last_one))
+    	&& (yet_another & last_one))
 {
   ...
 }
