@@ -38,9 +38,9 @@ case 缩进, 必须有break, 除enum外, 必须有default
 使用括号; 如果一个布尔表达式超过 标准行宽, 操作符放在行首.
 
 ```c
-if ((one_thing > other_thing)
-	&& (third_thing == fourth_thing)
-    	&& (yet_another & last_one))
+if ((oneThing > otherThing)
+	&& (thirdThing == fourthThing)
+    	&& (yetAnother & lastOne))
 {
   ...
 }
