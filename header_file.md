@@ -19,15 +19,15 @@
 ##### #define 保护
 
 所有头文件都应该使用 #define 来防止头文件被多重包含, 命名格式:  
-`<NAMESPACE>_<FILE>_H_`
+`<NAMESPACE>_<FILE>_H`
 
 为保证唯一性, 头文件的命名应该基于所在项目源代码树的全路径. 例如, 项目 foo 中的头文件 foo/include/bar/baz.h 可按如下方式保护:
 
 ```c
-#ifndef BAR_BAZ_H_
-#define BAR_BAZ_H_
+#ifndef BAR_BAZ_H
+#define BAR_BAZ_H
 …
-#endif // BAR_BAZ_H_
+#endif // BAR_BAZ_H
 ```
 
 ##### 前置声明
